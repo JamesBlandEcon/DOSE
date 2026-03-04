@@ -1,0 +1,13 @@
+name: DOSE
+title: DOSE
+username: jamesblandecon
+account: jamesblandecon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16799627
+bundleId: 11661774
+url: https://jamesblandecon.shinyapps.io/DOSE/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
